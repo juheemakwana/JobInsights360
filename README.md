@@ -20,7 +20,7 @@ A data analytics project that provides insights into job distributions, salaries
 # Setup Instructions
   1. Clone the Repository:
      
-     git clone https://github.com/yourusername/JobInsights360.git
+     git clone https://github.com/juheemakwana/JobInsights360.git
      
      cd JobInsights360
 
