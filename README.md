@@ -66,7 +66,6 @@ Siemens and Boeing show high variability in difficulty.
 
 # Recommendations
 For Job Seekers:
-
 Focus on non-tech roles at Boeing and Siemens.
 Target Apple for tech opportunities.
 Look for companies offering entry-level positions.
